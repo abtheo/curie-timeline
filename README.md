@@ -5,4 +5,4 @@
 From the biographies of Marie &amp; Pierre Curie, we perform data mining and visualization focused on sentences containing dates.
 
 
-![Static Timeline Example](https://github.com/abtheo/curie-timeline/blob/master/timeline_static.png)
+![Static Timeline Example](https://github.com/abtheo/curie-timeline/blob/master/timeline.png)
